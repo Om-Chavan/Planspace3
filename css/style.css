@@ -54,7 +54,7 @@ header .container_content {
 
 header nav {
   display: flex;
-  border:solid black;
+/*   border:solid black; */
   /* flex-direction: column; */
   justify-content: space-around;
   /* justify-content: baseline; */
